@@ -1,4 +1,4 @@
-# Python_Graph_Plotter
+# Python_Bar_Graph_Plotter
 In this Repository I have shown you how to Plot the Bar Graphs Using Python. It uses 'matplotlib' module to do so. To install that Module just type the following in your CMD/Powershell/Terminal (Assuming that You are on Windows):
 ```
 pip install matplotlib
