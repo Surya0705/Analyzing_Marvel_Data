@@ -7,7 +7,7 @@ Or if you are in Linux(Ubuntu 20.04 LTS which I am using) then use:
 ```
 pip3 install matplotlib
 ```
-Or install according to your OS. After installation edit the Code as per the Graph you want to Plot. Also this data plotting works on both Online IDEs such as Google Colab and Jupyter Notebook. For Normal usage just run [Main.py](Main.py) file and to run it in your Browser just use [Main.ipynb](Main.ipynb). Below is the Screenshot of My Program:
+Or install according to your OS. After installation edit the Code as per the Graph you want to Plot. Also this data plotting works on both OnlineIDEs such as Google Colab, Jupyter Notebook, etc. or Installed IDEs such as Visual Studio Code, Pycharm, etc. For Normal usage just run [Main.py](Main.py) file and to run it in your Browser just use [Main.ipynb](Main.ipynb). Below is the Screenshot of My Program:
 
 <img src="Code_Screenshot.png"><img>
 And Hope that you Liked it!
